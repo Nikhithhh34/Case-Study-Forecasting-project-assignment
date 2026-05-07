@@ -7,7 +7,7 @@ name = "sales-forecast"
 version = "0.1.0"
 description = "Production-grade time series forecasting system for weekly state-level sales"
 readme = "README.md"
-requires-python = ">=3.10,<3.13"
+requires-python = ">=3.10,<3.15"
 authors = [{ name = "Praveen Kumar" }]
 license = { text = "MIT" }
 dependencies = [
